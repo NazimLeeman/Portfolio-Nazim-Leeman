@@ -8,6 +8,7 @@ type Presentation = {
   title: string;
   description: string;
   socials: Social[];
+  image: string;
 };
 
 const presentation: Presentation = {
@@ -29,6 +30,7 @@ const presentation: Presentation = {
       link: "https://github.com/NazimLeeman",
     },
   ],
+  image:"https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/375972237_3448738035438262_2329051104081576753_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHWdvYP6BJXl_hosGvThX5OGglRAEqWr9waCVEASpav3MX7Z0gg6KrTz_CmWVJsKpdPkSQaUA6lMWCX_14YXYc4&_nc_ohc=F9EUQAfMGxQAX8tPlwA&_nc_ht=scontent.fdac99-1.fna&oh=00_AfARW_Vde6w37YDXiI2wrsoTU5zj-KtYV03JVPGWKWuLjw&oe=65034928",
 };
 
 export default presentation;
