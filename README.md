@@ -1,8 +1,8 @@
 # 👨‍🚀 Astro & decap (netlify) CMS - Portfolio Template
 
-![Template](https://astro-decapcms-starter.netlify.app/opengraph-image.jpg)
 
-This theme/template is designed and crafted by [maxencewolff](https://www.maxencewolff.com) and futher develop by [me](https://codenanshu.in) 
+
+This theme/template is designed and crafted by [maxencewolff](https://www.maxencewolff.com) and futher develop by [NazimLeeman](https://portfolio-nazim-leeman.vercel.app/) 
 NB: Additional color themes can also be configured on the `src/data/theme.ts` file.
 
 ## 🥷 Usage
