@@ -30,7 +30,7 @@ const presentation: Presentation = {
       link: "https://github.com/NazimLeeman",
     },
   ],
-  image:"https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/375972237_3448738035438262_2329051104081576753_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHWdvYP6BJXl_hosGvThX5OGglRAEqWr9waCVEASpav3MX7Z0gg6KrTz_CmWVJsKpdPkSQaUA6lMWCX_14YXYc4&_nc_ohc=F9EUQAfMGxQAX8tPlwA&_nc_ht=scontent.fdac99-1.fna&oh=00_AfARW_Vde6w37YDXiI2wrsoTU5zj-KtYV03JVPGWKWuLjw&oe=65034928",
+  image:"https://scontent.fdac99-1.fna.fbcdn.net/v/t1.6435-9/131466495_3853890957994923_8581730369405783948_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7a1959&_nc_ohc=T8r7rsVh_xEAX9v7pmi&_nc_ht=scontent.fdac99-1.fna&oh=00_AfD-YBxv6lIiw3XydUthvTB_aWjmx0VW1HVUlUeLFNHhCQ&oe=6547A9EA",
 };
 
 export default presentation;
